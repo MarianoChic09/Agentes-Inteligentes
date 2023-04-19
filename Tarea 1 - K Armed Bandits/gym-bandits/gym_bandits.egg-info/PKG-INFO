@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: gym-bandits
+Version: 0.0.2
+Summary: Gym User Env - Various N-Armed Bandit Problems
+Home-page: https://github.com/jkcooper2/gym_bandits
+Author: Jesse Cooper
+Author-email: jesse_cooper@hotmail.com
+License: MIT License
+License-File: LICENSE

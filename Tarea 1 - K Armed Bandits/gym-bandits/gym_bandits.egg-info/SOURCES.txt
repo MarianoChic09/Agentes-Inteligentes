@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+gym_bandits/__init__.py
+gym_bandits/bandit.py
+gym_bandits/scoreboard.py
+gym_bandits.egg-info/PKG-INFO
+gym_bandits.egg-info/SOURCES.txt
+gym_bandits.egg-info/dependency_links.txt
+gym_bandits.egg-info/requires.txt
+gym_bandits.egg-info/top_level.txt
