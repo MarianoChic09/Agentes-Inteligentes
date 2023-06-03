@@ -15,10 +15,10 @@ class ReplayMemory:
         self.position = 0
 
     def add(self, state, action, reward, done, next_state):
-      # Implementar.
+      self.memory.append(Transition(state, action, reward, done, next_state))
 
     def sample(self, batch_size):
-      # Implementar.
+      return random.sample(self.memory, batch_size)
 
     def __len__(self):
-      # Implementar.
+      return len(self.memory)
