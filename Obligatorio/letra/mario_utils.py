@@ -11,7 +11,7 @@ import gym_super_mario_bros
 from nes_py.wrappers import JoypadSpace
 from gym.spaces import Box
 from gym.wrappers import FrameStack
-from gym.wrappers.monitoring import Monitor
+from gym.wrappers import Monitor
 #from gym.wrappers import Monitor
 from IPython.display import HTML
 from pyvirtualdisplay import Display
